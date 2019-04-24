@@ -18,7 +18,7 @@ int getaltura (Node *no){
 	}
 }
 
-atualizaAlt (Node *no){
+Void atualizaAlt (Node *no){
 	int altDireita;
 	int altEsquerda;
 
